@@ -1,0 +1,4 @@
+node_modules/
+tmp/*
+!tmp/.gitkeep
+https://github.com/caffeine-insane/go-barbar-api.git
